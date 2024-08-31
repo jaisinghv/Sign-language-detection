@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectediamges</folder>
+	<filename>no.8db2051a-6748-11ef-b82f-562e79f9c585.jpg</filename>
+	<path>/Users/jai/RealTimeObjectDetection/Tensorflow/workspace/images/collectediamges/no.8db2051a-6748-11ef-b82f-562e79f9c585.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1441</xmin>
+			<ymin>434</ymin>
+			<xmax>1858</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>
